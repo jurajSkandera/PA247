@@ -1,0 +1,18 @@
+
+
+export const CHANGE_USERNAME = 'CHANGE_USERNAME' ///***
+export const CHANGE_AVATAR = 'CHANGE_AVATAR' ///***
+export const ENTER_ROOM = 'ENTER_ROOM' //***
+export const ADD_ROOM = 'ADD_ROOM'//***
+export const SEND_MESSAGE = 'SEND_MESSAGE'
+export const DELETE_MESSAGE = 'DELETE_MESSAGE'
+export const DOWNVOTE = 'DOWNVOTE' //***
+export const UPVOTE = 'UPVOTE' //***
+export const USERNAME_ENTER = 'USERNAME_ENTER'
+export const AVATAR_ENTER = 'AVATAR_ENTER'
+export const HANDLE_INPUT_MESSAGE = 'HANDLE_INPUT_MESSAGE'
+export const HANDLE_INPUT_ROOM = 'HANDLE_INPUT_ROOM'
+export const DELETE_BUFFER_MESSAGE = 'DELETE_BUFFER_MESSAGE'
+export const DELETE_BUFFER_ROOM = 'DELETE_BUFFER_ROOM'
+export const EDIT_USERNAME = 'EDIT_USERNAME'
+export const CLEAR_BUFFER_USERNAME = 'CLEAR_BUFFER_USERNAME'
